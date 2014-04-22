@@ -1,0 +1,3 @@
+[submodule "lithe"]
+	path = lithe
+	url = https://github.com/litheModule/lithe
