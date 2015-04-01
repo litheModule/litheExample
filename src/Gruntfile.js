@@ -8,7 +8,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     lithe: {
-      cblog: {
+      example: {
         options: {
           basepath: basepath,
           alias: {
