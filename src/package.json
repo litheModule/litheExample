@@ -10,9 +10,9 @@
         "grunt":"*",
         "lithe":"*",
         "grunt-lithe":"*",
-		"grunt-contrib-watch":"*",
+        "grunt-contrib-watch":"*",
         "grunt-contrib-uglify":"*",
         "grunt-contrib-concat":"*",
-		"grunt-shelltask":"*"
+    "grunt-shelltask":"*"
     }
 }
